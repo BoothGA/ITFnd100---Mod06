@@ -1,3 +1,2 @@
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-- jekyll-remote-theme
+[Assignment06 - Python Project](https://github.com/BoothGA/ITFnd100---Mod06/blob/main/Assignment06.py)
+
